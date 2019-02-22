@@ -1,0 +1,9 @@
+ERROR2019/02/21 17:55:34 utils.go:89: sql: no rows in result set Cannot find user
+ERROR2019/02/21 17:56:12 utils.go:89: sql: no rows in result set Cannot find user
+ERROR2019/02/21 17:57:12 utils.go:89: sql: no rows in result set Cannot find user
+ERROR2019/02/21 17:59:46 utils.go:89: sql: no rows in result set Cannot find user
+ERROR2019/02/21 18:05:02 utils.go:89: sql: no rows in result set Cannot find user
+ERROR2019/02/22 14:27:56 utils.go:89: sql: no rows in result set Cannot find user
+ERROR2019/02/22 14:28:10 utils.go:89: sql: no rows in result set Cannot find user
+ERROR2019/02/22 14:28:20 utils.go:89: sql: no rows in result set Cannot find user
+ERROR2019/02/22 14:52:13 utils.go:89: sql: expected 5 destination arguments in Scan, not 4 Cannot create thread
